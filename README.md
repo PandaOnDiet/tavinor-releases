@@ -4,7 +4,7 @@ A free desktop assistant for Windows that lives in the notch at the top of your 
 
 **[Download the latest version](https://github.com/PandaOnDiet/tavinor-releases/releases/latest)**: `Tavinor-Setup-<version>.exe`
 
-This repository holds the installer only. The source code is not public.
+This repository holds the installers. Licence: GPL-3.0, source at [github.com/PandaOnDiet/Tavinor](https://github.com/PandaOnDiet/Tavinor).
 
 ## What it does
 
